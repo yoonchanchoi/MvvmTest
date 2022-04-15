@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MvvmTest</string>
+    <string name="search_keyword_hint">검색할 사용자 이름을 입력해주세요.</string>
+    <string name="search">검색</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
